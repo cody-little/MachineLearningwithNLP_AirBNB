@@ -24,3 +24,7 @@ Both classifiers performed significantly better than baseline majority levels an
 #### Bag of Words Results
 
 ![](https://github.com/cody-little/MachineLearningwithNLP_AirBNB/blob/master/images/bowrepNLP.PNG)
+
+#### Word Embedding Results
+
+![](https://github.com/cody-little/MachineLearningwithNLP_AirBNB/blob/master/images/embeddingrepNLP.PNG)
